@@ -8,7 +8,7 @@ Esto se agrega para guardar orden y ver como funciona el lenguaje markdown
 
 ---
 
-## Gustos
+# Gustos
 
 Me gusta mucho la informatica y el mundo tech
 ---
