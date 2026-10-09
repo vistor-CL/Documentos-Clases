@@ -3,18 +3,18 @@ Este repositorio es de prueba, se esta siguiendo un tutorial de como ocupar gith
 
 ---
 
-# Este es el segundo titulo
-Esto se agrega para guardar orden y ver como funciona el lenguaje markdown
+## Este es un subtitulo
+Esto se agrega para guardar orden y esto utiliza lenguaje markdown
 
 ---
 
-# Gustos
-
+## Gustos (segundo sub-titulo)
 Me gusta mucho la informatica y el mundo tech
+
 ---
 
-## Este es el primer sub-titulo 
-Este es el texto plano (utiliza lenguaje markdown.
+# Este es el segundo titulo 
+Este es el texto plano.
 
 ---
 
